@@ -6,8 +6,8 @@ from flask_cors import CORS
 BOOKS = [
     {
         'id': uuid.uuid4().hex,
-        'title': 'On the Road',
-        'author': 'Jack Kerouac',
+        'title': 'The Hobbit',
+        'author': 'J. R. R. Tolkien',
         'read': True
     },
     {
@@ -18,8 +18,8 @@ BOOKS = [
     },
     {
         'id': uuid.uuid4().hex,
-        'title': 'Green Eggs and Ham',
-        'author': 'Dr. Seuss',
+        'title': 'The Narnia',
+        'author': 'C',
         'read': True
     }
 ]
