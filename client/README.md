@@ -1,29 +1,31 @@
 # client
 
-## Project setup
+Este é o subprojeto do cliente da aplicação Flask. Todos os comandos indicados abaixo devem ser rodados em um terminal separado do servidor.
+
+## Para configurar o projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila o projeto e abre o servidor (em [http://localhost:8080](http://localhost:8080))
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila o projeto e aplica um *minifier* para ambiente de produção
 ```
 npm run build
 ```
 
-### Run your tests
+### Executa os testes
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### Aplica o *linter* no código e corrige arquivos
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Configurações personalizadas
+Veja a [documentação de configuração do Vue.js](https://cli.vuejs.org/config/).

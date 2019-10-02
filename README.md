@@ -24,5 +24,5 @@ Desenvolvendo uma Aplicação de Página Única(SPA) com Flask e Vue.js, para ap
 
     Navegue até [http://localhost:8080](http://localhost:8080)
 
-### Licensa
+### Licença
 [MIT](LICENSE)
